@@ -1,0 +1,188 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #f3f3f3;
+  color: #0e0d0d;
+}
+
+.container {
+  width: 60%;
+  max-width: none;
+  margin:1rem auto 0 1rem;
+  padding: 0 1 rem;
+}
+
+
+header h1 {
+  font-size: 2.5rem;
+}
+
+header p {
+  font-size: 1.2rem;
+  color: #444;
+}
+
+section {
+  padding: 2rem 0;
+}
+
+.about p, .contact p {
+  margin-top: 1rem;
+}
+
+.skills ul {
+  padding-left: 2rem;
+ 
+}
+
+.skills li {
+  list-style: none;
+  padding-left: none;
+  line-height: 1.6;
+  margin-top: 1rem; 
+ 
+}
+.skills-list li{
+  margin-bottom: 1rem;
+}
+
+
+footer {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 1rem 0;
+  margin-top: 2rem;
+}
+header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+
+
+header h1, header p {
+  max-width: 70%;
+}
+
+.overlay h1 {
+  font-size: 2rem;              
+  margin-bottom: 1rem;
+}
+
+.overlay p {
+  font-size: 1.3rem;
+  max-width: 600px;
+}
+
+/* === COVER SECTION === */
+.cover {
+  background-image: "C:\Users\Hp\Desktop\PLP\PLP hackathons\me.jpg.jpg";
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  position: relative;
+}
+
+/* === OVERLAY === */
+.overlay {
+  background-color: rgba(0, 0, 0, 0.4); 
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  padding: 2rem;
+}
+
+/* === PROFILE PICTURE FRAME === */
+.profile-frame {
+  width: 390px;
+  height: 390px;
+  border: 6px solid #fff0da;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+
+.profile-pic {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* === TEXT STYLING === */
+.overlay h1 {
+  font-size: 2.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.overlay p {
+  font-size: 1.3rem;
+  max-width: 600px;
+}
+
+.education {
+  padding-left: 1rem;
+}
+
+
+.edu-entry h3 {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.edu-entry p {
+  margin-top: 0.5rem;
+  line-height: 1.6;
+}
+.interests-list {
+  list-style: none;
+  padding-left: none;
+  line-height: 1.6;
+  margin-top: 1rem;
+}
+.interests{
+  padding-left: 1rem;
+}
+.interests-list li{
+  margin-bottom: 1rem;
+}
+.interests ul{
+  padding-left: 2rem;
+}
+.about p, .education p{
+  padding-left: 1rem;
+}
+ul li {
+  font-size: 1.2rem; 
+}
+
+
+.project {
+  margin-bottom: 2rem;
+}
+
+.project h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.project a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+.project a:hover {
+  text-decoration: underline;
+}
