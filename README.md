@@ -18,9 +18,6 @@ This portfolio is built using **HTML** and **CSS**, with a clean and minimal lay
  A downloadable CV for quick access
 
 
-##  Live Demo
- [View My Portfolio](https://your-username.github.io/martha-portfolio/)
-
 > Replace the above URL with your actual GitHub Pages link after deploying.
 
 ---
