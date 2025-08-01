@@ -64,8 +64,7 @@ To deploy:
 -  Email: imendonmartha@gmail.com  
 -  Location: Nairobi, Kenya  
 -  Phone: +254 793 304 848  
--  LinkedIn: *(optional)*  
-- Instagram (Crochet/Beadwork): *(optional)*  
+
 
 
 ## License
