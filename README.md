@@ -29,7 +29,6 @@ This portfolio is built using **HTML** and **CSS**, with a clean and minimal lay
 | HTML       | Page structure and semantic layout |
 | CSS        | Custom styling and layout management |
 | Git & GitHub | Version control and project hosting |
-| GitHub Pages | Free website hosting |
 
 ---
 
