@@ -1,6 +1,6 @@
 # Martha Okadah | Personal Portfolio Website
 
-Welcome to my personal portfolio website — a digital showcase of my background, skills, and projects as a passionate Computer Science student and aspiring systems analyst and diplomat. This site highlights my journey, creativity, and growth in both technical and soft skills.
+Welcome to my personal portfolio website a digital showcase of my background, skills, and projects as a passionate Computer Science student and aspiring systems analyst and diplomat. This site highlights my journey, creativity, and growth in both technical and soft skills.
 
 ---
 
@@ -51,7 +51,7 @@ To view locally:
 
 To deploy:
 
-- Just host it via [GitHub Pages](https://pages.github.com/) (which you're doing now!)
+- Just host it via [GitHub Pages](https://pages.github.com/)
 
 ---
 
@@ -66,6 +66,6 @@ To deploy:
 ## License
 
 This project is free for personal use and learning.  
-**© 2025 Martha Imendon Okadah** – All rights reserved.
+**© 2025 Martha Imendon Okadah** All rights reserved.
 
 
